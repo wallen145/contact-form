@@ -1,0 +1,26 @@
+body {
+    background-color: lightyellow;
+}
+
+form {
+    background-color: lightgray;
+    width: 400px;
+    margin: 0 auto;
+}
+
+div {
+    margin: 1rem;
+}
+
+#buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: gray;
+    align-content: center;
+}
+
+button {
+    margin: 0, 20, 0, 20;
+}
